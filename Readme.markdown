@@ -11,4 +11,4 @@ Woot!
 
 机上运行（iOS 8 DP5）也一样。
 
-![image](ThreeX_On_Device)
+![image](ThreeX_On_Device.png)
