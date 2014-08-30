@@ -8,3 +8,7 @@ Xcode 6 DP6还真的会加载3x的图片。。。
 ![image](ThreeX.png)
 
 Woot!
+
+机上运行（iOS 8 DP5）也一样。
+
+![image](ThreeX_On_Device)
